@@ -4,4 +4,4 @@ A discord Bot for Automating some tasks, like a command to ban a user premanentl
 
 *IF YOU WANT TO SEE THE RUNNIG CODE AND HOW IT WORKS*
 
-**CHECKOUT** : * https://drive.google.com/file/d/1QG4RU5Bvs8QgSx-Y_q34sbCOm4Y4u4RM/view?usp=sharing *
+**CHECKOUT** : https://drive.google.com/file/d/1QG4RU5Bvs8QgSx-Y_q34sbCOm4Y4u4RM/view?usp=sharing
